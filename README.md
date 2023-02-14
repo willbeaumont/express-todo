@@ -1,5 +1,7 @@
 # Express REST API take-home exercise
 
+**Exercise written by [Andre Landgraf](https://andre-landgraf.dev/)**
+
 We are TODOify, a Silicon Valley startup that aims to disrupt the TODO industry. For that, we are looking for YOU!
 
 At TODOify, we strive to build world-class software. We are looking for a new teammate that can quickly iterate and prototype on new projects.
